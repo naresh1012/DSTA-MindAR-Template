@@ -1,8 +1,7 @@
-# DSTA-MindAR-Demo
-# [This is the Project Title] 
+# My Personal AR Namecard
+# [One Day or Day One] 
 
-A brief description of what this project does and who it's for.  
-
+This is my intro to the Git Workflow and my XRperience in 2026 HAHAH. 
  
 
 # Hi, I'm Nareshhhhh! 👋 
